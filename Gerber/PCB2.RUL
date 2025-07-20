@@ -1,0 +1,5 @@
+DRC Rules Export File for PCB: c:\net\data\arkservice\0b5b558b-12ae-4401-bea9-33a236450dda\s\e\PCB2.PCBDoc
+RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=3.00
+RuleKind=Width|RuleName=Width|Scope=Board|Minimum=5.00
+RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=10.00
